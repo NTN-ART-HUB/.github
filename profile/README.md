@@ -11,5 +11,5 @@
 
 
 <h2>Our Target</h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:star: Helping a buyer find the art and art equipment he wants online.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;:star: Enabling a seller to sell his salable arts online.</p>
+<p> Helping a buyer find the art and art equipment he wants online.</p>
+<p> Enabling a seller to sell his salable arts online.</p>
