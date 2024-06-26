@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to NTN ART HUB  👋</h1>
+<h1 align="center">WELCOME TO NTN ART HUB  👋</h1>
 
 <h2>Project Background</h2>
 <p>Sri Lanka has a rich cultural heritage and a vibrant art scene, yet many talented artists struggle to gain the recognition they deserve. Despite their skills, these artists often remain unknown due to limited opportunities for exposure. Additionally, the local art community faces significant challenges in obtaining high-quality art supplies, which can hinder their creative processes.</p>
